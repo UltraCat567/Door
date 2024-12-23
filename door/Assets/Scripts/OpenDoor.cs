@@ -17,5 +17,5 @@ public class OpenDoor : MonoBehaviour
         {
             animator.SetTrigger("Open");
         }
-    }
+    } 
 }
